@@ -29,3 +29,6 @@ The goal is to explore:
     -  Data Analysis
     -  EDA
     -  Data Visualisation
+
+Dashboard Link:
+<img width="1341" height="742" alt="Screenshot 2026-08-24 213335" src="https://github.com/user-attachments/assets/8352ddf9-4983-412d-9d2d-95df99739b39" />

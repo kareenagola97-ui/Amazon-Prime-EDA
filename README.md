@@ -7,7 +7,7 @@ The goal is to explore:
 - Content distribution
 - Popular genres
 - Release trends over the years
-
+     
     TOOL USED
     - Python
     - Pandas
@@ -24,6 +24,15 @@ The goal is to explore:
     -  EDA
     -  Data Visualisation
 
-    Business Insights
+   KPI
+  -  Total Movies : 8K
+  -  Total TV shows: 1K
+  -  Most Content Country: US
+  -  Most Content Release Year: After 2015
+  -  Most famous Genres: Drama
+  -  Movies are more popular then Tv Shows
+  
+   Business Objective
+  Amazon Prime Video should focus more on highly rated and popular content to improve viewer engagement and customer satisfaction. The platform can increase content diversity by adding more TV Shows, regional      content, and trending genres. Using audience ratings, popularity trends, and viewing patterns can help improve recommendation systems and support better business decisions also help to see the pattern of        increasing the view.
 Dashboard Link:
 <img width="1341" height="742" alt="Screenshot 2026-08-24 213335" src="https://github.com/user-attachments/assets/8352ddf9-4983-412d-9d2d-95df99739b39" />
